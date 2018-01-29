@@ -1,0 +1,8 @@
+/data/Containers
+/data/.*
+
+**/.@__thumb
+**/@Recycle
+
+*.ini
+*.DS_Store
